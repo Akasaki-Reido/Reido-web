@@ -1,0 +1,32 @@
+.big-title h1 {
+    font-family: Microsoft JhengHei;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.second-title h2 {
+    font-family: DFKai-sb;
+    align-self: center;
+}
+
+.about-me h3{
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: start;
+}
+
+.about-me p {
+    font-family: Microsoft JhengHei;
+}
+
+.buttons h3 {
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: start;
+}
+
+.buttons a {
+    font-family: Microsoft JhengHei;
+}
