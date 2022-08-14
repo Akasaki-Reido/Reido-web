@@ -9,6 +9,16 @@
     align-self: center;
 }
 
+.welcome-message h2{
+    font-family: DFKai-sb;
+    font-size: 50px;
+}
+
+.welcome-message h3{
+    font-family: DFKai-sb;
+    font-size: 35px;
+}
+
 .about-me h3{
     font-family: Microsoft JhengHei;
     font-weight: bolder;

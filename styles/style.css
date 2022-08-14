@@ -80,7 +80,13 @@ main {
 body {
     position: relative;
     top: 70px;
-    height: 500px;
+    height: 600px;
+}
+
+.welcome-message {
+    position: relative;
+    text-align: start;
+    left: 480px;
 }
 
 .about-me {
@@ -100,7 +106,7 @@ footer {
     background-color: #D3A4FF;
 }
 
-.footers a {
+.footers p.footer-word {
     position: relative;
     bottom: 15px;
 }
