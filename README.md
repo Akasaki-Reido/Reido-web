@@ -11,6 +11,8 @@ I still learning html, css and javascript now
 
 So this website is not so pretty, I will keep update it
 
+There are some easter eggs in this website, you can look for it
+
 ## Website
 You can go to my website by copy the URL
 
@@ -25,7 +27,7 @@ or
 ## Other
 If you have any question, you can pull an issue
 
-## Me
+## My info
 [Twitter](https://twitter.com/Akasaki_Reido)
 
 [Reality](https://reality.app/profile/f3c7fd94)
