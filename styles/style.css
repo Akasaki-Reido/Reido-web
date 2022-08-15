@@ -1,7 +1,7 @@
 .Reido-right {
     position: fixed;
     right: 0px;
-    bottom: 0px;
+    bottom: 40px;
 }
 
 .header {
@@ -80,7 +80,30 @@ main {
 body {
     position: relative;
     top: 70px;
-    height: 600px;
+    height: 1150px;
+}
+
+dialog.popup {
+    position: flex;
+    border: none;
+    box-shadow: 0 2px 6px #ccc;
+    border-radius: 10px;
+    background-color: #000000;
+    width: 1400px;
+}
+
+img.popup-pic {
+    position: relative;
+    display: block;
+    margin: auto;
+    height: 1000px;
+}
+
+button.close-b {
+    position: relative;
+    left: 620px;
+    top: 10px;
+    height: 50px;
 }
 
 .welcome-message {
@@ -89,7 +112,19 @@ body {
     left: 480px;
 }
 
+.Self-introduction {
+    position: relative;
+    text-align: start;
+    left: 480px;
+}
+
 .about-me {
+    position: relative;
+    text-align: start;
+    left: 480px;
+}
+
+.more-about-me {
     position: relative;
     text-align: start;
     left: 480px;
