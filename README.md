@@ -9,12 +9,12 @@ This is my first time writing a website
 
 I still learning html, css and javascript now
 
-So this website is not so pretty, I will keep update it
+So this website is not so pretty, I will update the site from time to time
 
 There are some easter eggs in this website, you can look for it
 
 ## Website
-You can go to my website by copy the URL
+You can go to my website by copy this URL
 
 ```
 https://akasaki-reido.github.io/Reido-web/
