@@ -12,7 +12,7 @@ mytitle.onclick = function() {
     }
 }*/
 
-//new code
+//new code(auto switch picture)
 
 var mytitle = document.querySelector('h2.sec-title')
 var all_images = ['./assets/Reido2.original', './assets/Reido3.original', './assets/Reido4.jpg'];
@@ -26,7 +26,7 @@ function change_pic() {
     if (images_count === all_images.length) {
         images_count = 0;
     };
-    setTimeout(change_pic, 3000);
+    setTimeout(change_pic, 5000); //5 sec
 }
 
 //I don't need this code now, I will do other things about this code in future
@@ -40,6 +40,8 @@ mytitle.onclick = function() {
     }
 }
 */
+
+//change pic
 
 rpic.onmouseover = function() {
     rpic.setAttribute('src', './assets/light_reido.png');
