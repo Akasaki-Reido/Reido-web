@@ -80,7 +80,7 @@ main {
 body {
     position: relative;
     top: 70px;
-    height: 1150px;
+    height: 1250px;
 }
 
 dialog.popup {
@@ -106,6 +106,22 @@ button.close-b {
     height: 50px;
 }
 
+.timenow {
+    position: relative;
+    text-align: center;
+    left: 480px;
+    color: black;
+    font: 2em sans-serif; 
+    background: white; 
+    margin: 5px;
+    padding: 5px;
+    border: solid gray 2px; 
+    border-radius: 10px;
+    width:160px;
+    top: 40px;
+    box-shadow: 0 2px 6px black;
+}
+
 .welcome-message {
     position: relative;
     text-align: start;
@@ -128,6 +144,10 @@ button.close-b {
     position: relative;
     text-align: start;
     left: 480px;
+}
+
+.more-about-me span.word-block {
+    background-color: #000000;
 }
 
 footer {
