@@ -157,11 +157,16 @@ footer {
     height: 30px;
     left: 0;
     bottom: 0px;
-    height: 65px;
+    height: 80px;
     background-color: #D3A4FF;
 }
 
 .footers p.footer-word {
     position: relative;
     bottom: 15px;
+}
+
+.footers span {
+    position: relative;
+    bottom: 30px;
 }
