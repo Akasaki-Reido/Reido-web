@@ -54,6 +54,7 @@ html {
 .bg-pic img {
     min-height: 100%;
     width: 30%;
+    opacity: 1;
 }
 
 .buttons {
@@ -159,9 +160,15 @@ button.close-b {
     left: 480px;
 }
 
+.my-twitter {
+    position: relative;
+    text-align: start;
+    left: 480px;
+}
+
 .more-about-me span.word-block {
     background-color: #000000;
-    color: #000000;
+    color: rgba(255, 255, 255, 0);
 }
 
 footer {
