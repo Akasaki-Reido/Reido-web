@@ -1,0 +1,89 @@
+.big-title h1.big-title{
+    font-family: Microsoft JhengHei;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.second-title h2 {
+    font-family: DFKai-sb;
+    align-self: center;
+}
+
+.to-oshi-box h2 {
+    font-family: DFKai-sb;
+    font-size: 20px;
+    border-bottom:0px solid #000000;
+    transition: .3s;
+}
+
+.to-oshi-box h2:hover {
+    border-bottom:3px solid #000000;
+}
+
+h1.popup-word {
+    font-family: Microsoft JhengHei;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.welcome-message h2{
+    font-family: DFKai-sb;
+    font-size: 50px;
+}
+
+.welcome-message h3{
+    font-family: DFKai-sb;
+    font-size: 35px;
+}
+
+.Self-introduction h3 {
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: start;
+}
+
+.Self-introduction p {
+    font-family: Microsoft JhengHei;
+}
+
+.about-me h3 {
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: start;
+}
+
+.about-me p {
+    font-family: Microsoft JhengHei;
+}
+
+.more-about-me h3 {
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: start;
+}
+
+.more-about-me p {
+    font-family: Microsoft JhengHei;
+}
+
+.my-twitter h3 {
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: start;
+}
+
+.buttons h3 {
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: start;
+}
+
+.buttons a {
+    font-family: Microsoft JhengHei;
+}
